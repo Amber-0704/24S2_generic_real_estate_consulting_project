@@ -1,4 +1,4 @@
-# Project Title: **Generic Real Estate Consulting Project - Group 38**
+# Generic Real Estate Consulting Project
 
 ## Research Goal
 
